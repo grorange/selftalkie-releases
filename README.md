@@ -7,4 +7,4 @@ SelfTalkie Windows and Android downloads. Release files only; private user recor
 - [Latest release notes](https://github.com/grorange/selftalkie-releases/releases/latest)
 - [SHA-256 checksums](https://github.com/grorange/selftalkie-releases/releases/latest/download/SelfTalkie-SHA256SUMS.txt)
 
-Current app: v1.1.0 (2026-11-11). Android uses the signed 1.0.2 web-app launcher; the app interface updates through the hosted mobile site.
+Current app: v1.1.0 (2026-11-14). Android uses the signed 1.0.2 web-app launcher; the app interface updates through the hosted mobile site.
